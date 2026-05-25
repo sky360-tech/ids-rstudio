@@ -1,0 +1,1 @@
+ufc_final <- filter(UFC_DATA, F1.Winner. == 1, Fight.Method == "Decision - Unanimous" | Fight.Method == "Decision - Split")

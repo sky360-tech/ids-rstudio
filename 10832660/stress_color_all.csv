@@ -1,0 +1,450 @@
+user.id,timestamp.x,howmanypeople,stress,where,who,why,latitude.x,longitude.x,timestamp.y,SuperPower,blue,gold,green,int_ext,orange,p_color,s_color,sport,latitude.y,longitude.y
+bvsd-03355,2/23/26 11:48,15,3,school,teachers and classmates,learn,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-03355,2/23/26 9:11,3,1,home,friends and/or family,chill,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-03355,2/23/26 9:24,13,2,work,coworkers,job,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-03355,2/19/26 22:53,2,3,home,friends and/or family,homework,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-03355,2/23/26 9:23,2,2,work,friends and/or family,work,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-03355,2/23/26 9:23,3,1,home,friends and/or family,chill,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-03355,2/23/26 22:59,21,1,public place,strangers,workout,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-03355,2/17/26 11:28,22,0,school,teachers and classmates,LEARN,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-03355,2/23/26 9:11,11,2,work,coworkers,work,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-03355,2/18/26 21:46,2,2,home,friends and/or family,chill,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-03355,2/19/26 22:53,23,2,school,teachers and classmates,learn,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-03355,2/20/26 9:30,19,2,school,teachers and classmates,class,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-03355,2/18/26 9:32,23,3,school,teachers and classmates,learn,NA,NA,11/13/25 10:46,Fly,8,10,13,Introvert,19,Orange,Green,Yes,38.910687366856926,-94.65673328
+bvsd-04643,2/24/26 10:32,2,0,public place,friends and/or family,dinner,38.905210664227525,-94.66255804,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-04643,2/24/26 10:10,5,2,school,teachers and classmates,truancy,38.90512165076706,-94.65350751,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-04643,2/17/26 11:30,23,1,school,teachers and classmates,truancy,38.90095780788873,-94.66823392,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-04643,2/24/26 10:32,8,2,school,friends and/or family,assembly,38.90372842554248,-94.65750143,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-04643,2/24/26 10:11,8,1,work,coworkers,training,38.906082542397755,-94.66281437,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-04643,2/24/26 10:32,12,2,school,teachers and classmates,truancy,38.897152012600216,-94.66017937,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-04643,2/24/26 10:10,1,0,public place,friends and/or family,dinner ,38.89924331212403,-94.65377015,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-04643,2/19/26 10:18,23,1,school,teachers and classmates,truancy,NA,NA,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-04643,2/24/26 10:34,6,1,commuting,strangers,on the way to an appointment,38.90176136,-94.66134703,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-04643,2/21/26 19:53,3,0,work,coworkers,work,38.86176425615538,-94.64602234,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-04643,2/21/26 19:53,5,2,school,friends and/or family,basketball ,38.876531216325205,-94.63890559,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-04643,2/24/26 10:11,0,0,home,alone,nothing to do,38.90577825835132,-94.65321169,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-04643,2/21/26 19:52,0,1,home,alone,nothing to do,38.87176699291066,-94.64442923,11/11/25 11:36,Fly,18,8,10,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-07108,2/26/26 9:51,1,0,home,friends and/or family,chill,NA,NA,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/26/26 9:49,15,2,school,teachers and classmates,class,NA,NA,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/26/26 9:50,0,2,work,alone,Car,NA,NA,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/26/26 9:52,12,2,school,friends and/or family,basketball,NA,NA,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/26/26 9:51,16,0,school,teachers and classmates,Class,NA,NA,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/23/26 14:06,1,2,commuting,friends and/or family,charity,39.05261402259153,-94.50716951,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/23/26 14:05,21,0,public place,friends and/or family,dinner ,39.059179654559195,-94.51272891,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/26/26 9:51,1,1,home,friends and/or family,video games,NA,NA,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/24/26 10:09,6,2,other's house,friends and/or family,Ku game ,38.90141541426405,-94.67136659,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/19/26 11:40,21,0,school,teachers and classmates,class ,38.91489251238359,-94.65258492,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/23/26 14:03,0,0,home,alone,chill ,39.04209795111324,-94.50338655,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/26/26 9:50,0,1,public place,alone,food,NA,NA,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/24/26 10:00,4,3,school,teachers and classmates,class,38.89871688624465,-94.67255175,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-07108,2/26/26 9:53,1,0,home,alone,sleep,NA,NA,11/11/25 11:35,Telepathy (read minds),13,8,11,Extrovert,18,Orange,Blue,Yes,NA,NA
+bvsd-14126,2/24/26 10:33,23,1,school,teachers and classmates,Class,38.90789323321268,-94.6577914,11/13/25 10:14,Invisibility,16,10,8,Extrovert,16,Orange,Blue,Yes,38.90597693,-94.65758931
+bvsd-15535,2/23/26 22:05,0,0,home,alone,sleep,38.8757583,-94.62358652,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15535,2/23/26 22:02,10,2,work,coworkers,money,38.87790465823996,-94.61090906,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15535,2/23/26 22:03,2,1,home,friends and/or family,socials,38.87991372102926,-94.62227117,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15535,2/23/26 22:06,1,0,public place,friends and/or family,errands,38.87232029819806,-94.61240011,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15535,2/23/26 22:01,30,1,work,coworkers,money,38.88781541021902,-94.61115661,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15535,2/23/26 22:05,40,2,public place,strangers,religion,38.87814462618882,-94.60595339,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15535,2/23/26 22:04,12,2,other's house,friends and/or family,networking,38.87438093002103,-94.61444712,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15535,2/18/26 10:30,22,2,school,teachers and classmates,education,38.905678911015734,-94.6568956,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15535,2/23/26 22:06,12,3,school,teachers and classmates,quiz,38.87549176907282,-94.61648606,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15535,2/20/26 9:11,21,3,school,teachers and classmates,Education,38.91326878405538,-94.6599776,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15535,2/23/26 22:01,21,3,school,teachers and classmates,education,38.88014757586851,-94.60813149,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15535,2/17/26 11:28,23,1,school,teachers and classmates,education,38.90795505512137,-94.65383101,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15535,2/23/26 22:02,0,1,public place,alone,transportation,38.87545641561627,-94.62514005,11/11/25 11:34,Freeze Time,18,10,10,Extrovert,12,Blue,Orange,Yes,NA,NA
+bvsd-15737,2/23/26 12:57,0,0,home,alone,shelter,38.877299961788715,-94.63535923,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-15737,2/23/26 12:57,0,0,home,alone,shelter,38.88573053520597,-94.64552184,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-15737,2/24/26 10:35,0,1,home,alone,shelter,38.910695208074486,-94.66301571,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-15737,2/18/26 11:05,17,0,school,teachers and classmates,Education,38.90990157126078,-94.66119559,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-15737,2/19/26 11:09,22,0,school,teachers and classmates,education,38.915547581290724,-94.66055197,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-15737,2/24/26 10:02,0,0,home,alone,shelter,38.90286495321916,-94.65558516,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-15737,2/23/26 12:56,23,1,public place,friends and/or family,sweetheart,38.88623644846461,-94.64141833,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-15737,2/24/26 10:31,23,0,school,teachers and classmates,education,38.90572898396639,-94.65592157,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-15737,2/23/26 12:56,0,0,home,alone,shelter,38.888287643771136,-94.63802965,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-15737,2/24/26 10:35,0,0,home,alone,shelter,38.90557353176892,-94.65976495,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-15737,2/18/26 17:20,0,1,home,alone,Shelter,38.89570613747975,-94.63345982,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-15737,2/20/26 9:31,19,2,school,teachers and classmates,education,38.90645906488833,-94.65183047,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-15737,2/17/26 11:22,25,0,school,teachers and classmates,education,NA,NA,11/11/25 11:36,Fly,12,9,18,Extrovert,11,Green,Blue,Yes,38.90764530118194,-94.6618566
+bvsd-16908,2/22/26 10:31,0,1,home,alone,Home,NA,NA,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-16908,2/19/26 17:33,3,1,home,friends and/or family,I live here,NA,NA,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-16908,2/18/26 9:25,3,1,school,teachers and classmates,required,38.90343108266581,-94.66362296,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-16908,2/21/26 10:45,2,1,home,friends and/or family,Babysitting,NA,NA,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-16908,2/23/26 20:21,4,1,home,friends and/or family,Home,NA,NA,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-16908,2/19/26 10:21,23,1,school,teachers and classmates,education,38.914351350790554,-94.65817979,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-16908,2/23/26 12:08,7,1,school,teachers and classmates,School,NA,NA,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-16908,2/22/26 14:07,5,1,public place,strangers,Car,NA,NA,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-16908,2/17/26 11:28,23,1,school,teachers and classmates,have to be,38.90258049054709,-94.6565206,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-16908,2/19/26 17:45,12,1,work,coworkers,Money,NA,NA,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-16908,2/21/26 21:45,0,1,home,alone,Cause,NA,NA,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-16908,2/20/26 23:44,3,1,home,friends and/or family,Cause,NA,NA,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-16908,2/20/26 8:06,10,1,school,teachers and classmates,education,38.90841643458339,-94.66121871,11/11/25 11:34,Telepathy (read minds),12,12,8,Extrovert,18,Orange,Blue,Yes,38.90234014655637,-94.65152553
+bvsd-22662,2/24/26 10:34,16,0,other's house,friends and/or family,Fun,38.91103358319239,-94.66365207,11/11/25 11:35,Freeze Time,12,11,14,Extrovert,13,Green,Orange,Yes,38.89746660265518,-94.66233631
+bvsd-22662,2/17/26 11:28,23,0,school,teachers and classmates,mandatory,NA,NA,11/11/25 11:35,Freeze Time,12,11,14,Extrovert,13,Green,Orange,Yes,38.89746660265518,-94.66233631
+bvsd-22662,2/24/26 10:32,10,2,work,coworkers,money,38.90535927827544,-94.64999302,11/11/25 11:35,Freeze Time,12,11,14,Extrovert,13,Green,Orange,Yes,38.89746660265518,-94.66233631
+bvsd-22662,2/18/26 20:47,19,0,work,coworkers,Job,38.91541445913456,-94.6167704,11/11/25 11:35,Freeze Time,12,11,14,Extrovert,13,Green,Orange,Yes,38.89746660265518,-94.66233631
+bvsd-22662,2/19/26 11:22,22,0,school,teachers and classmates,Mandatory,38.904773591403654,-94.6661372,11/11/25 11:35,Freeze Time,12,11,14,Extrovert,13,Green,Orange,Yes,38.89746660265518,-94.66233631
+bvsd-22662,2/24/26 10:32,3,0,home,friends and/or family,Sleep,38.89846510007542,-94.65617906,11/11/25 11:35,Freeze Time,12,11,14,Extrovert,13,Green,Orange,Yes,38.89746660265518,-94.66233631
+bvsd-22662,2/19/26 18:01,2,0,home,friends and/or family,home,38.90037222260999,-94.62652877,11/11/25 11:35,Freeze Time,12,11,14,Extrovert,13,Green,Orange,Yes,38.89746660265518,-94.66233631
+bvsd-22662,2/24/26 10:30,8,3,other's house,friends and/or family,Cleaning,38.91566069820047,-94.6664291,11/11/25 11:35,Freeze Time,12,11,14,Extrovert,13,Green,Orange,Yes,38.89746660265518,-94.66233631
+bvsd-22662,2/24/26 10:29,1,0,commuting,friends and/or family,Airport,38.90615629147582,-94.65364464,11/11/25 11:35,Freeze Time,12,11,14,Extrovert,13,Green,Orange,Yes,38.89746660265518,-94.66233631
+bvsd-22662,2/24/26 10:28,45,0,other's house,friends and/or family,Basketball,38.91161897989352,-94.65439084,11/11/25 11:35,Freeze Time,12,11,14,Extrovert,13,Green,Orange,Yes,38.89746660265518,-94.66233631
+bvsd-22662,2/18/26 9:59,17,0,school,teachers and classmates,mandatory,38.90526048,-94.65674095,11/11/25 11:35,Freeze Time,12,11,14,Extrovert,13,Green,Orange,Yes,38.89746660265518,-94.66233631
+bvsd-22662,2/24/26 10:31,24,0,public place,friends and/or family,Basketball,38.90544583,-94.64790718,11/11/25 11:35,Freeze Time,12,11,14,Extrovert,13,Green,Orange,Yes,38.89746660265518,-94.66233631
+bvsd-33516,2/19/26 22:35,5,0,home,friends and/or family,relax,38.88014509531284,-94.60801972,11/11/25 11:35,Super Strength,14,10,13,Extrovert,13,Blue,Orange,Yes,38.90383195685289,-94.66693845
+bvsd-33516,2/20/26 22:02,5,0,home,friends and/or family,rest,38.87787159233149,-94.61576168,11/11/25 11:35,Super Strength,14,10,13,Extrovert,13,Blue,Orange,Yes,38.90383195685289,-94.66693845
+bvsd-33516,2/17/26 14:35,16,3,school,teachers and classmates,School,38.90766418192702,-94.65603547,11/11/25 11:35,Super Strength,14,10,13,Extrovert,13,Blue,Orange,Yes,38.90383195685289,-94.66693845
+bvsd-33516,2/23/26 13:23,15,3,school,teachers and classmates,required ,38.877058511315475,-94.62348758,11/11/25 11:35,Super Strength,14,10,13,Extrovert,13,Blue,Orange,Yes,38.90383195685289,-94.66693845
+bvsd-33516,2/19/26 11:22,7,3,school,teachers and classmates,learning ,38.907503242447476,-94.66968554,11/11/25 11:35,Super Strength,14,10,13,Extrovert,13,Blue,Orange,Yes,38.90383195685289,-94.66693845
+bvsd-33516,2/18/26 16:36,5,0,home,friends and/or family,relax,NA,NA,11/11/25 11:35,Super Strength,14,10,13,Extrovert,13,Blue,Orange,Yes,38.90383195685289,-94.66693845
+bvsd-33516,2/22/26 13:51,5,0,home,friends and/or family,relax,38.833423793338795,-94.66134862,11/11/25 11:35,Super Strength,14,10,13,Extrovert,13,Blue,Orange,Yes,38.90383195685289,-94.66693845
+bvsd-33516,2/20/26 14:17,15,2,school,teachers and classmates,required,38.8741893,-94.60880422,11/11/25 11:35,Super Strength,14,10,13,Extrovert,13,Blue,Orange,Yes,38.90383195685289,-94.66693845
+bvsd-33516,2/18/26 10:11,20,2,school,teachers and classmates,school,38.900472483172905,-94.6619852,11/11/25 11:35,Super Strength,14,10,13,Extrovert,13,Blue,Orange,Yes,38.90383195685289,-94.66693845
+bvsd-33516,2/22/26 6:22,5,0,home,friends and/or family,home,38.88794112425108,-94.61485149,11/11/25 11:35,Super Strength,14,10,13,Extrovert,13,Blue,Orange,Yes,38.90383195685289,-94.66693845
+bvsd-33516,2/23/26 18:39,5,0,home,friends and/or family,relax ,38.87749627337176,-94.61547522,11/11/25 11:35,Super Strength,14,10,13,Extrovert,13,Blue,Orange,Yes,38.90383195685289,-94.66693845
+bvsd-36323,2/23/26 18:43,2,1,home,friends and/or family,skiping,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-36323,2/17/26 11:28,24,2,school,teachers and classmates,to learn,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-36323,2/23/26 18:44,2,1,work,coworkers,money,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-36323,2/23/26 18:42,35,1,other's house,friends and/or family,sweetheart,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-36323,2/23/26 18:41,0,3,home,alone,preparing,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-36323,2/20/26 9:52,0,1,home,alone,sick,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-36323,2/20/26 9:52,0,2,home,alone,sick,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-36323,2/20/26 9:53,13,2,school,teachers and classmates,education,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-36323,2/23/26 18:39,30,2,other's house,friends and/or family,hangout,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-36323,2/18/26 10:00,2,3,home,friends and/or family,sick,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-36323,2/23/26 18:43,0,1,home,alone,tired,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-36323,2/23/26 18:42,15,3,work,coworkers,money,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-36323,2/18/26 16:00,0,2,home,alone,sick,NA,NA,11/11/25 11:35,Fly,19,9,8,Extrovert,14,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/24/26 10:25,1,1,home,friends and/or family,Conducting,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/22/26 21:57,3,2,home,friends and/or family,Cleaning,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/23/26 12:23,12,1,school,teachers and classmates,Test,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/22/26 21:53,12,3,school,teachers and classmates,APUSH,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/22/26 21:56,1,0,home,friends and/or family,Hangout,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/17/26 11:29,22,1,school,teachers and classmates,Education,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/22/26 21:49,1,0,home,friends and/or family,Hangout,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/22/26 21:47,22,0,school,teachers and classmates,Math,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/22/26 21:57,20,0,work,strangers,Lifeguarding,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/22/26 21:48,3,2,home,friends and/or family,Cleaning,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/19/26 9:47,0,1,home,alone,homework,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/22/26 21:48,0,1,commuting,alone,Family,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-43680,2/18/26 11:08,11,0,school,teachers and classmates,APUSH,NA,NA,11/11/25 11:35,Freeze Time,20,9,10,Extrovert,11,Blue,Orange,Yes,NA,NA
+bvsd-44934,2/23/26 16:22,0,0,home,alone,Dog,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-44934,2/24/26 10:33,23,2,work,coworkers,Money,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-44934,2/24/26 10:33,14,1,school,teachers and classmates,Education,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-44934,2/17/26 11:29,23,0,school,teachers and classmates,education,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-44934,2/20/26 9:22,25,1,work,coworkers,Money,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-44934,2/18/26 10:00,17,0,school,teachers and classmates,Hamlet,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-44934,2/23/26 16:20,1,0,public place,friends and/or family,Shopping,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-44934,2/23/26 16:22,14,2,work,coworkers,Money,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-44934,2/23/26 16:21,20,0,other's house,friends and/or family,Sweetheart,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-44934,2/23/26 16:23,14,0,work,coworkers,Money,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-44934,2/18/26 22:43,1,0,other's house,friends and/or family,Workout,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-44934,2/19/26 10:58,5,2,school,teachers and classmates,education,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-44934,2/23/26 16:21,2,0,other's house,friends and/or family,Relaxing,NA,NA,11/11/25 11:35,Freeze Time,15,16,6,Extrovert,13,Gold,Blue,Yes,NA,NA
+bvsd-47826,3/3/26 10:43,4,0,home,friends and/or family,relax,38.90994241,-94.65725802,11/11/25 11:35,Freeze Time,8,12,11,Extrovert,19,Orange,Gold,Yes,38.9058627,-94.65982652
+bvsd-47826,3/3/26 10:43,2,0,other's house,friends and/or family,freinds ,38.90998268062041,-94.65720389,11/11/25 11:35,Freeze Time,8,12,11,Extrovert,19,Orange,Gold,Yes,38.9058627,-94.65982652
+bvsd-47826,3/3/26 10:42,15,0,public place,strangers,shopping,38.90045504662132,-94.65637901,11/11/25 11:35,Freeze Time,8,12,11,Extrovert,19,Orange,Gold,Yes,38.9058627,-94.65982652
+bvsd-47826,3/3/26 10:41,22,1,school,teachers and classmates,Grades,38.90138833808509,-94.65196565,11/11/25 11:35,Freeze Time,8,12,11,Extrovert,19,Orange,Gold,Yes,38.9058627,-94.65982652
+bvsd-47826,2/17/26 11:28,23,0,school,teachers and classmates,My attendance,NA,NA,11/11/25 11:35,Freeze Time,8,12,11,Extrovert,19,Orange,Gold,Yes,38.9058627,-94.65982652
+bvsd-47826,3/3/26 10:39,1,0,home,friends and/or family,chill,38.91243595861668,-94.65679577,11/11/25 11:35,Freeze Time,8,12,11,Extrovert,19,Orange,Gold,Yes,38.9058627,-94.65982652
+bvsd-47826,3/3/26 10:37,21,1,public place,friends and/or family,Sweetheart dinner,38.912082802727646,-94.66083598,11/11/25 11:35,Freeze Time,8,12,11,Extrovert,19,Orange,Gold,Yes,38.9058627,-94.65982652
+bvsd-47826,2/18/26 10:01,17,0,school,teachers and classmates,attendance ,38.91315263871876,-94.65821587,11/11/25 11:35,Freeze Time,8,12,11,Extrovert,19,Orange,Gold,Yes,38.9058627,-94.65982652
+bvsd-47826,3/3/26 10:41,6,0,other's house,friends and/or family,hang out,38.90438846,-94.65596478,11/11/25 11:35,Freeze Time,8,12,11,Extrovert,19,Orange,Gold,Yes,38.9058627,-94.65982652
+bvsd-47826,3/3/26 10:38,42,1,work,strangers,Money,38.916205293223875,-94.66345028,11/11/25 11:35,Freeze Time,8,12,11,Extrovert,19,Orange,Gold,Yes,38.9058627,-94.65982652
+bvsd-47826,2/19/26 10:21,0,0,home,alone,chilling,38.90509285233385,-94.66143944,11/11/25 11:35,Freeze Time,8,12,11,Extrovert,19,Orange,Gold,Yes,38.9058627,-94.65982652
+bvsd-47826,3/3/26 10:36,0,0,home,alone,watching UFC,38.89561637473252,-94.66220312,11/11/25 11:35,Freeze Time,8,12,11,Extrovert,19,Orange,Gold,Yes,38.9058627,-94.65982652
+bvsd-51226,2/22/26 13:30,8,1,other's house,friends and/or family,sleepover,39.08812776511057,-94.58360479,11/13/25 10:49,Invisibility,15,11,6,Extrovert,18,Orange,Blue,Yes,38.90533747326747,-94.66045133
+bvsd-51226,2/18/26 20:04,0,0,home,alone,rest,38.92844733010777,-94.64155987,11/13/25 10:49,Invisibility,15,11,6,Extrovert,18,Orange,Blue,Yes,38.90533747326747,-94.66045133
+bvsd-51226,2/20/26 9:05,15,0,school,teachers and classmates,education ,38.90517476545869,-94.65634454,11/13/25 10:49,Invisibility,15,11,6,Extrovert,18,Orange,Blue,Yes,38.90533747326747,-94.66045133
+bvsd-51226,2/20/26 18:39,4,0,other's house,friends and/or family,birthday,38.96298881270455,-95.24605915,11/13/25 10:49,Invisibility,15,11,6,Extrovert,18,Orange,Blue,Yes,38.90533747326747,-94.66045133
+bvsd-51226,2/20/26 9:04,3,1,work,coworkers,money,38.91028934272208,-94.66824372,11/13/25 10:49,Invisibility,15,11,6,Extrovert,18,Orange,Blue,Yes,38.90533747326747,-94.66045133
+bvsd-51226,2/24/26 10:31,0,0,home,alone,chill,38.905081416565004,-94.66330506,11/13/25 10:49,Invisibility,15,11,6,Extrovert,18,Orange,Blue,Yes,38.90533747326747,-94.66045133
+bvsd-51226,2/24/26 10:31,4,1,work,coworkers,money,38.90393529821506,-94.65724878,11/13/25 10:49,Invisibility,15,11,6,Extrovert,18,Orange,Blue,Yes,38.90533747326747,-94.66045133
+bvsd-51226,2/18/26 20:04,25,2,school,teachers and classmates,education ,38.92786672697855,-94.63490617,11/13/25 10:49,Invisibility,15,11,6,Extrovert,18,Orange,Blue,Yes,38.90533747326747,-94.66045133
+bvsd-51226,2/21/26 13:58,0,0,home,alone,chillin,38.910597719905475,-94.63648714,11/13/25 10:49,Invisibility,15,11,6,Extrovert,18,Orange,Blue,Yes,38.90533747326747,-94.66045133
+bvsd-51226,2/19/26 13:46,23,2,school,teachers and classmates,Ids,38.92388341242458,-94.64512809,11/13/25 10:49,Invisibility,15,11,6,Extrovert,18,Orange,Blue,Yes,38.90533747326747,-94.66045133
+bvsd-51226,2/17/26 11:28,23,1,school,teachers and classmates,education,38.897879895291304,-94.65991988,11/13/25 10:49,Invisibility,15,11,6,Extrovert,18,Orange,Blue,Yes,38.90533747326747,-94.66045133
+bvsd-51226,2/23/26 16:17,3,2,work,coworkers,money,38.92433395709772,-94.63279471,11/13/25 10:49,Invisibility,15,11,6,Extrovert,18,Orange,Blue,Yes,38.90533747326747,-94.66045133
+bvsd-55063,2/18/26 16:25,4,1,home,friends and/or family,tired,38.83572584513185,-94.68055496,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55063,2/20/26 10:50,10,1,school,teachers and classmates,forced,38.90936527109527,-94.65821311,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55063,2/19/26 18:14,0,2,home,alone,working,38.83884541,-94.69015,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55063,2/17/26 11:28,23,2,school,teachers and classmates,forced,38.90639532778318,-94.65940801,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55063,2/23/26 18:00,2,1,home,friends and/or family,rest,38.83582432753222,-94.68461217,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55063,2/21/26 22:00,0,2,home,alone,sick,38.84132513272786,-94.68551822,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55063,2/23/26 12:03,4,1,school,teachers and classmates,forced,38.91516525717799,-94.66444931,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55063,2/20/26 22:00,0,0,home,alone,rest,38.84508001709202,-94.68887437,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55063,2/18/26 10:47,22,1,school,teachers and classmates,forced,38.90869533581472,-94.67305883,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55063,2/19/26 11:43,22,1,school,teachers and classmates,grades,38.91429757252384,-94.65873487,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55063,2/21/26 15:00,0,1,home,alone,sick,38.84556654207396,-94.68932779,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55063,2/22/26 16:07,0,1,school,alone,homework,38.840363364956325,-94.69480626,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55063,2/22/26 11:22,0,0,home,alone,sick,38.83941935278511,-94.68469146,11/11/25 11:35,Freeze Time,12,16,17,Introvert,5,Green,Gold,Yes,38.900017110438355,-94.66228263
+bvsd-55411,2/24/26 1:22,5,2,home,friends and/or family,makeup,38.850092459188126,-94.629107,11/11/25 11:36,Invisibility,8,16,10,Extrovert,16,Orange,Gold,Yes,38.91017637922204,-94.65324508
+bvsd-55411,2/24/26 1:22,15,2,school,teachers and classmates,dance ,38.84871936389372,-94.61930009,11/11/25 11:36,Invisibility,8,16,10,Extrovert,16,Orange,Gold,Yes,38.91017637922204,-94.65324508
+bvsd-55411,2/19/26 20:39,22,2,school,teachers and classmates,class,38.843516354610856,-94.63198465,11/11/25 11:36,Invisibility,8,16,10,Extrovert,16,Orange,Gold,Yes,38.91017637922204,-94.65324508
+bvsd-55411,2/24/26 1:23,1,1,home,friends and/or family,lunch ,38.84303326465889,-94.62711778,11/11/25 11:36,Invisibility,8,16,10,Extrovert,16,Orange,Gold,Yes,38.91017637922204,-94.65324508
+bvsd-55411,2/19/26 20:38,15,1,public place,strangers,Nails,38.84809622,-94.62326578,11/11/25 11:36,Invisibility,8,16,10,Extrovert,16,Orange,Gold,Yes,38.91017637922204,-94.65324508
+bvsd-55411,2/20/26 12:32,15,3,school,teachers and classmates,class,38.85302761952686,-94.61795035,11/11/25 11:36,Invisibility,8,16,10,Extrovert,16,Orange,Gold,Yes,38.91017637922204,-94.65324508
+bvsd-55411,2/17/26 11:28,23,1,school,teachers and classmates,Class,38.90989100330056,-94.65144989,11/11/25 11:36,Invisibility,8,16,10,Extrovert,16,Orange,Gold,Yes,38.91017637922204,-94.65324508
+bvsd-55411,2/19/26 20:40,2,0,other's house,friends and/or family,boyfriend ,38.841906860891285,-94.62577992,11/11/25 11:36,Invisibility,8,16,10,Extrovert,16,Orange,Gold,Yes,38.91017637922204,-94.65324508
+bvsd-55411,2/24/26 1:23,0,0,home,alone,nap,38.85042691182351,-94.6287189,11/11/25 11:36,Invisibility,8,16,10,Extrovert,16,Orange,Gold,Yes,38.91017637922204,-94.65324508
+bvsd-55411,2/24/26 1:24,1,0,home,friends and/or family,chill,38.84229280956449,-94.63068065,11/11/25 11:36,Invisibility,8,16,10,Extrovert,16,Orange,Gold,Yes,38.91017637922204,-94.65324508
+bvsd-60678,2/22/26 11:21,0,1,home,alone,home,NA,NA,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-60678,2/22/26 16:10,2,1,home,friends and/or family,home,38.899979449924494,-94.62579862,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-60678,2/18/26 10:01,19,1,school,teachers and classmates,education,NA,NA,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-60678,2/21/26 21:57,7,0,other's house,friends and/or family,Fun,38.89176676,-94.64001247,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-60678,2/20/26 8:59,18,2,school,teachers and classmates,education,NA,NA,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-60678,2/19/26 11:06,21,2,school,teachers and classmates,education,NA,NA,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-60678,2/23/26 18:08,1,1,public place,teachers and classmates,Lessons,38.91358236482478,-94.64913617,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-60678,2/20/26 22:05,1,3,home,alone,homework,NA,NA,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-60678,2/19/26 21:49,0,2,commuting,alone,dance,NA,NA,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-60678,2/23/26 12:01,6,2,school,friends and/or family,Lunch ,38.91087352008204,-94.66648988,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-60678,2/17/26 11:29,23,3,school,teachers and classmates,education,NA,NA,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-60678,2/21/26 17:10,1,2,home,friends and/or family,home,NA,NA,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-60678,2/18/26 18:42,15,1,public place,strangers,exercise,NA,NA,11/11/25 11:35,Freeze Time,17,7,12,Introvert,14,Blue,Orange,Yes,NA,NA
+bvsd-61449,3/5/26 8:48,0,2,commuting,alone,school,38.914736614209914,-94.62258371,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-61449,3/5/26 8:47,1,1,home,friends and/or family,home,38.92212296339966,-94.62736997,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-61449,2/19/26 18:59,15,2,school,friends and/or family,Practice,38.90633166572748,-94.62132873,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-61449,2/17/26 11:28,23,1,school,teachers and classmates,Obligated,38.89972251851904,-94.65796238,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-61449,3/2/26 21:00,3,0,home,alone,sleep,38.9164363,-94.62078927,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-61449,2/20/26 9:48,17,1,school,teachers and classmates,School,38.89854049762541,-94.64736579,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-61449,3/2/26 21:02,1,0,public place,friends and/or family,food,38.916992668243886,-94.62255841,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-61449,3/2/26 21:01,0,0,home,alone,home,38.90797409228242,-94.6196007,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-61449,3/2/26 20:59,0,0,commuting,alone,Drive,38.91081687492293,-94.62344599,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-61449,3/2/26 20:58,3,1,home,friends and/or family,Home,38.919633144834435,-94.62233389,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-61449,2/19/26 19:01,3,0,home,friends and/or family,Home,38.91640159336085,-94.61273452,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-61449,2/19/26 19:00,22,0,school,teachers and classmates,School,38.915278413777976,-94.61900522,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-61449,3/2/26 21:04,2,1,home,friends and/or family,eating,38.90376963542652,-94.6225315,11/11/25 11:35,Freeze Time,15,12,7,Extrovert,16,Orange,Blue,Yes,38.91026951074581,-94.66266685
+bvsd-62093,3/3/26 10:37,20,2,school,teachers and classmates,class,NA,NA,11/11/25 11:35,Freeze Time,13,5,12,Extrovert,20,Orange,Blue,Yes,NA,NA
+bvsd-62093,3/3/26 10:34,1,2,home,alone,sick,NA,NA,11/11/25 11:35,Freeze Time,13,5,12,Extrovert,20,Orange,Blue,Yes,NA,NA
+bvsd-62093,3/3/26 10:36,1,0,commuting,alone,food,NA,NA,11/11/25 11:35,Freeze Time,13,5,12,Extrovert,20,Orange,Blue,Yes,NA,NA
+bvsd-62093,2/20/26 9:19,8,0,school,friends and/or family,class,NA,NA,11/11/25 11:35,Freeze Time,13,5,12,Extrovert,20,Orange,Blue,Yes,NA,NA
+bvsd-62093,2/24/26 8:40,2,2,home,friends and/or family,sweetheart,NA,NA,11/11/25 11:35,Freeze Time,13,5,12,Extrovert,20,Orange,Blue,Yes,NA,NA
+bvsd-62093,2/20/26 9:19,22,1,school,teachers and classmates,IDS,NA,NA,11/11/25 11:35,Freeze Time,13,5,12,Extrovert,20,Orange,Blue,Yes,NA,NA
+bvsd-62093,2/20/26 9:20,18,0,school,teachers and classmates,economics,NA,NA,11/11/25 11:35,Freeze Time,13,5,12,Extrovert,20,Orange,Blue,Yes,NA,NA
+bvsd-62093,3/3/26 10:34,25,1,work,coworkers,money,NA,NA,11/11/25 11:35,Freeze Time,13,5,12,Extrovert,20,Orange,Blue,Yes,NA,NA
+bvsd-62093,3/3/26 10:35,1,0,other's house,friends and/or family,zim,NA,NA,11/11/25 11:35,Freeze Time,13,5,12,Extrovert,20,Orange,Blue,Yes,NA,NA
+bvsd-62093,2/20/26 9:17,0,1,home,alone,sick,NA,NA,11/11/25 11:35,Freeze Time,13,5,12,Extrovert,20,Orange,Blue,Yes,NA,NA
+bvsd-62093,2/20/26 9:18,0,2,home,alone,sick,NA,NA,11/11/25 11:35,Freeze Time,13,5,12,Extrovert,20,Orange,Blue,Yes,NA,NA
+bvsd-78563,2/19/26 11:10,22,1,work,coworkers,obligation,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-78563,2/23/26 9:21,5,2,home,friends and/or family,Family,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-78563,2/19/26 11:10,17,2,school,teachers and classmates,obligation,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-78563,2/23/26 9:24,8,0,public place,alone,Food,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-78563,2/23/26 20:19,0,0,commuting,alone,Work,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-78563,2/23/26 9:19,2,2,home,friends and/or family,Relaxation,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-78563,2/17/26 14:36,16,2,school,teachers and classmates,Obligation. ,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-78563,2/23/26 9:22,15,1,work,coworkers,Obligation,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-78563,2/18/26 9:34,19,1,school,teachers and classmates,obligation,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-78563,2/24/26 22:29,3,0,public place,friends and/or family,Fun ,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-78563,2/23/26 9:23,5,2,home,friends and/or family,Relaxation,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-78563,2/23/26 9:24,0,1,home,alone,Relaxation,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-78563,2/23/26 9:20,19,1,school,teachers and classmates,obligation,NA,NA,11/11/25 11:36,Invisibility,20,12,6,Extrovert,12,Blue,Orange,No,38.90325372820588,-94.65923442
+bvsd-79542,2/18/26 20:57,0,1,home,alone,Chilling,38.859310201611436,-94.63552651,11/11/25 11:37,Invisibility,12,7,16,Extrovert,15,Green,Orange,No,38.91223029743455,-94.6611593
+bvsd-79542,2/18/26 21:00,20,1,school,teachers and classmates,Learning,38.863153054221044,-94.64072412,11/11/25 11:37,Invisibility,12,7,16,Extrovert,15,Green,Orange,No,38.91223029743455,-94.6611593
+bvsd-79542,2/24/26 9:52,20,1,school,teachers and classmates,Learn,38.909103240771586,-94.66376137,11/11/25 11:37,Invisibility,12,7,16,Extrovert,15,Green,Orange,No,38.91223029743455,-94.6611593
+bvsd-79542,2/18/26 21:00,0,2,home,alone,Homework,38.87170442147718,-94.64309784,11/11/25 11:37,Invisibility,12,7,16,Extrovert,15,Green,Orange,No,38.91223029743455,-94.6611593
+bvsd-79542,2/24/26 9:55,0,2,home,alone,Grooming,38.90368505721897,-94.6647602,11/11/25 11:37,Invisibility,12,7,16,Extrovert,15,Green,Orange,No,38.91223029743455,-94.6611593
+bvsd-79542,2/24/26 9:53,0,1,commuting,alone,Driving,38.91096659036554,-94.67112934,11/11/25 11:37,Invisibility,12,7,16,Extrovert,15,Green,Orange,No,38.91223029743455,-94.6611593
+bvsd-79542,2/24/26 9:56,0,0,home,alone,Sleeping,38.909618666730644,-94.65943319,11/11/25 11:37,Invisibility,12,7,16,Extrovert,15,Green,Orange,No,38.91223029743455,-94.6611593
+bvsd-79542,2/24/26 9:58,20,1,school,teachers and classmates,Learn,38.91093423107597,-94.66420464,11/11/25 11:37,Invisibility,12,7,16,Extrovert,15,Green,Orange,No,38.91223029743455,-94.6611593
+bvsd-90348,2/23/26 21:41,0,0,home,alone,Housing,38.890675124623925,-94.6179672,11/11/25 11:35,Super Strength,9,14,17,Introvert,10,Green,Gold,Yes,38.903499841976185,-94.65452663
+bvsd-90348,2/23/26 16:11,1,0,public place,friends and/or family,Helping,38.88125958,-94.62118719,11/11/25 11:35,Super Strength,9,14,17,Introvert,10,Green,Gold,Yes,38.903499841976185,-94.65452663
+bvsd-90348,2/23/26 12:49,2,0,other's house,friends and/or family,Family,38.89057327943966,-94.6165696,11/11/25 11:35,Super Strength,9,14,17,Introvert,10,Green,Gold,Yes,38.903499841976185,-94.65452663
+bvsd-90348,2/19/26 17:47,0,0,home,alone,Housing,38.89038380180143,-94.61110164,11/11/25 11:35,Super Strength,9,14,17,Introvert,10,Green,Gold,Yes,38.903499841976185,-94.65452663
+bvsd-90348,2/23/26 16:11,5,0,home,friends and/or family,Housing,38.88149358133495,-94.61099622,11/11/25 11:35,Super Strength,9,14,17,Introvert,10,Green,Gold,Yes,38.903499841976185,-94.65452663
+bvsd-90348,2/23/26 16:14,3,0,home,friends and/or family,Housing,38.89356167812343,-94.61488584,11/11/25 11:35,Super Strength,9,14,17,Introvert,10,Green,Gold,Yes,38.903499841976185,-94.65452663
+bvsd-90348,2/23/26 21:41,0,0,home,alone,Housing,38.89245493274897,-94.60310786,11/11/25 11:35,Super Strength,9,14,17,Introvert,10,Green,Gold,Yes,38.903499841976185,-94.65452663
+bvsd-90348,2/19/26 10:18,23,0,school,teachers and classmates,education,38.91433735287139,-94.65704589,11/11/25 11:35,Super Strength,9,14,17,Introvert,10,Green,Gold,Yes,38.903499841976185,-94.65452663
+bvsd-90348,2/17/26 11:27,23,0,school,teachers and classmates,Education,38.90712840725873,-94.65965477,11/11/25 11:35,Super Strength,9,14,17,Introvert,10,Green,Gold,Yes,38.903499841976185,-94.65452663
+bvsd-90348,2/23/26 18:36,0,0,home,alone,Housing,38.88613543851678,-94.61687082,11/11/25 11:35,Super Strength,9,14,17,Introvert,10,Green,Gold,Yes,38.903499841976185,-94.65452663
+bvsd-90348,2/18/26 12:04,18,0,school,teachers and classmates,Education,38.907910301941904,-94.66376592,11/11/25 11:35,Super Strength,9,14,17,Introvert,10,Green,Gold,Yes,38.903499841976185,-94.65452663
+bvsd-90348,2/23/26 12:47,3,0,home,friends and/or family,Housing,38.87539575729722,-94.62434441,11/11/25 11:35,Super Strength,9,14,17,Introvert,10,Green,Gold,Yes,38.903499841976185,-94.65452663
+bvsd-96061,2/17/26 14:08,17,1,school,teachers and classmates,School,38.90317626,-94.66121516,11/11/25 11:35,Fly,13,11,7,Extrovert,19,Orange,Blue,Yes,38.9047492,-94.65431281
+bvsd-96061,2/24/26 11:28,2,1,home,friends and/or family,Home,38.90915917,-94.65874252,11/11/25 11:35,Fly,13,11,7,Extrovert,19,Orange,Blue,Yes,38.9047492,-94.65431281
+bvsd-96061,2/24/26 11:29,20,3,school,teachers and classmates,Obligation,38.912613172190326,-94.65612591,11/11/25 11:35,Fly,13,11,7,Extrovert,19,Orange,Blue,Yes,38.9047492,-94.65431281
+bvsd-96061,2/24/26 11:30,6,1,other's house,friends and/or family,Cleaning,38.90702559857559,-94.65738582,11/11/25 11:35,Fly,13,11,7,Extrovert,19,Orange,Blue,Yes,38.9047492,-94.65431281
+bvsd-96061,2/24/26 11:25,22,2,school,teachers and classmates,Obligation,38.90145914066564,-94.66515367,11/11/25 11:35,Fly,13,11,7,Extrovert,19,Orange,Blue,Yes,38.9047492,-94.65431281
+bvsd-96061,2/24/26 11:25,0,0,home,alone,Chilling,38.90724066571727,-94.67376717,11/11/25 11:35,Fly,13,11,7,Extrovert,19,Orange,Blue,Yes,38.9047492,-94.65431281
+bvsd-96061,2/24/26 11:29,3,1,other's house,friends and/or family,Sweetheart,38.90151092760444,-94.66039018,11/11/25 11:35,Fly,13,11,7,Extrovert,19,Orange,Blue,Yes,38.9047492,-94.65431281
+bvsd-96061,2/24/26 11:31,25,0,public place,strangers,Gym,38.911510959543385,-94.65736062,11/11/25 11:35,Fly,13,11,7,Extrovert,19,Orange,Blue,Yes,38.9047492,-94.65431281
+bvsd-96061,2/24/26 11:31,0,2,home,alone,Home,38.90684075061383,-94.66235267,11/11/25 11:35,Fly,13,11,7,Extrovert,19,Orange,Blue,Yes,38.9047492,-94.65431281
+bvsd-96061,2/24/26 11:24,10,1,school,teachers and classmates,Obligation,NA,NA,11/11/25 11:35,Fly,13,11,7,Extrovert,19,Orange,Blue,Yes,38.9047492,-94.65431281
+bvsd-96061,2/24/26 11:31,0,2,home,alone,Home,38.910611062989894,-94.65628351,11/11/25 11:35,Fly,13,11,7,Extrovert,19,Orange,Blue,Yes,38.9047492,-94.65431281
+bvsd-98403,2/19/26 16:11,20,2,school,teachers and classmates,Required,38.91070629748941,-94.6405547,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-98403,2/26/26 11:36,0,0,home,alone,Tired,38.91171224464733,-94.65368655,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-98403,2/19/26 16:11,3,0,home,friends and/or family,Home,38.91013463349603,-94.64904553,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-98403,2/26/26 11:37,1,1,home,friends and/or family,Bored,38.896377026683176,-94.66200646,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-98403,2/24/26 9:06,5,0,public place,friends and/or family,Fun,38.90844527879144,-94.65764578,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-98403,2/24/26 9:07,25,0,other's house,friends and/or family,Fun,38.91815956045849,-94.65664408,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-98403,2/17/26 11:28,23,1,school,teachers and classmates,Required,38.907748458126804,-94.65447049,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-98403,2/19/26 16:09,3,1,home,alone,Home,38.91616656764523,-94.63832771,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-98403,2/24/26 9:05,4,0,home,friends and/or family,Bored,38.91567573423095,-94.65989717,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-98403,2/24/26 9:08,4,1,home,friends and/or family,Tired,38.91225043837463,-94.66057715,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-98403,2/24/26 9:06,1,2,commuting,friends and/or family,Driving,38.91478089806139,-94.66023961,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-98403,2/19/26 16:10,4,1,home,friends and/or family,Home,38.91187832930724,-94.63712564,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-98403,2/24/26 9:07,4,0,home,friends and/or family,Tired,38.91551308588954,-94.65317852,11/11/25 11:35,Telepathy (read minds),15,11,6,Extrovert,18,Orange,Blue,Yes,38.907015143784776,-94.66302947
+bvsd-00185,2/24/26 12:59,3,2,other's house,friends and/or family,Waiting,NA,NA,11/11/25 14:37,Invisibility,15,9,9,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-00185,2/19/26 13:27,15,1,school,teachers and classmates,Required,NA,NA,11/11/25 14:37,Invisibility,15,9,9,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-00185,2/24/26 12:57,30,0,other's house,friends and/or family,Celebrating,NA,NA,11/11/25 14:37,Invisibility,15,9,9,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-00185,2/24/26 12:58,0,2,home,alone,Preparing,NA,NA,11/11/25 14:37,Invisibility,15,9,9,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-00185,2/24/26 13:01,0,2,home,alone,Sick,NA,NA,11/11/25 14:37,Invisibility,15,9,9,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-00185,2/19/26 13:28,25,2,school,teachers and classmates,Required,NA,NA,11/11/25 14:37,Invisibility,15,9,9,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-00185,2/24/26 13:00,1,1,home,friends and/or family,Because,NA,NA,11/11/25 14:37,Invisibility,15,9,9,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-00185,2/24/26 12:59,0,0,home,alone,Resting,NA,NA,11/11/25 14:37,Invisibility,15,9,9,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-00185,2/24/26 12:56,1,1,other's house,friends and/or family,Nails,NA,NA,11/11/25 14:37,Invisibility,15,9,9,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-00185,2/19/26 13:30,22,3,school,teachers and classmates,Cheer,NA,NA,11/11/25 14:37,Invisibility,15,9,9,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-00185,2/24/26 12:57,19,3,school,teachers and classmates,Required,NA,NA,11/11/25 14:37,Invisibility,15,9,9,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-04676,2/17/26 14:36,17,1,school,teachers and classmates,Mandatory ,38.91061323224767,-94.65744288,11/13/25 14:22,Fly,13,8,17,Extrovert,12,Green,Blue,Yes,38.90437316378206,-94.64680162
+bvsd-04676,3/3/26 13:41,0,0,home,alone,I was sleeping,38.911964905802186,-94.66221879,11/13/25 14:22,Fly,13,8,17,Extrovert,12,Green,Blue,Yes,38.90437316378206,-94.64680162
+bvsd-24935,2/17/26 11:28,23,1,school,teachers and classmates,required,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-24935,2/27/26 9:39,23,1,school,teachers and classmates,class,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-24935,2/19/26 10:22,5,1,work,coworkers,money,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-24935,2/27/26 9:36,23,2,home,teachers and classmates,house,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-24935,2/20/26 9:14,23,1,school,teachers and classmates,required,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-24935,2/27/26 9:36,23,1,school,teachers and classmates,class,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-24935,2/27/26 9:38,3,1,work,coworkers,money,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-24935,2/22/26 19:20,14,2,public place,friends and/or family,rush,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-24935,2/22/26 19:20,5,2,other's house,friends and/or family,rush,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-24935,2/20/26 9:15,1,1,home,friends and/or family,home,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-24935,2/20/26 9:14,21,2,school,teachers and classmates,required,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-24935,2/18/26 9:58,17,1,school,teachers and classmates,Required,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-24935,2/27/26 9:35,23,1,school,teachers and classmates,class,NA,NA,11/11/25 14:36,Fly,13,13,7,Extrovert,17,Orange,Blue,Yes,NA,NA
+bvsd-29973,2/24/26 13:00,5,0,other's house,friends and/or family,chill,NA,NA,11/11/25 14:37,Freeze Time,10,11,9,Extrovert,20,Orange,Gold,Yes,38.904890204124264,-94.66469042
+bvsd-29973,2/24/26 12:52,26,1,school,teachers and classmates,learn,38.90355008099289,-94.66508144,11/11/25 14:37,Freeze Time,10,11,9,Extrovert,20,Orange,Gold,Yes,38.904890204124264,-94.66469042
+bvsd-29973,2/24/26 12:54,18,1,school,teachers and classmates,learn,NA,NA,11/11/25 14:37,Freeze Time,10,11,9,Extrovert,20,Orange,Gold,Yes,38.904890204124264,-94.66469042
+bvsd-29973,2/24/26 12:58,0,0,home,alone,chud,NA,NA,11/11/25 14:37,Freeze Time,10,11,9,Extrovert,20,Orange,Gold,Yes,38.904890204124264,-94.66469042
+bvsd-29973,2/24/26 13:00,2,2,public place,friends and/or family,AirPods ,NA,NA,11/11/25 14:37,Freeze Time,10,11,9,Extrovert,20,Orange,Gold,Yes,38.904890204124264,-94.66469042
+bvsd-29973,2/24/26 13:02,1,1,home,friends and/or family,ku ,NA,NA,11/11/25 14:37,Freeze Time,10,11,9,Extrovert,20,Orange,Gold,Yes,38.904890204124264,-94.66469042
+bvsd-29973,2/24/26 13:01,0,0,home,alone,sleep,NA,NA,11/11/25 14:37,Freeze Time,10,11,9,Extrovert,20,Orange,Gold,Yes,38.904890204124264,-94.66469042
+bvsd-29973,2/18/26 10:00,17,0,school,teachers and classmates,Learning,NA,NA,11/11/25 14:37,Freeze Time,10,11,9,Extrovert,20,Orange,Gold,Yes,38.904890204124264,-94.66469042
+bvsd-29973,2/24/26 12:53,15,2,public place,strangers,Lift,38.90663936042623,-94.648315,11/11/25 14:37,Freeze Time,10,11,9,Extrovert,20,Orange,Gold,Yes,38.904890204124264,-94.66469042
+bvsd-29973,2/25/26 12:16,30,1,public place,strangers,Workout,38.906595223239655,-94.66040748,11/11/25 14:37,Freeze Time,10,11,9,Extrovert,20,Orange,Gold,Yes,38.904890204124264,-94.66469042
+bvsd-29973,2/17/26 16:42,0,2,home,alone,sick,NA,NA,11/11/25 14:37,Freeze Time,10,11,9,Extrovert,20,Orange,Gold,Yes,38.904890204124264,-94.66469042
+bvsd-33630,2/17/26 14:36,16,2,school,teachers and classmates,college,NA,NA,11/11/25 14:37,Fly,16,5,18,Introvert,11,Green,Blue,Yes,NA,NA
+bvsd-40583,3/2/26 13:27,15,3,school,teachers and classmates,obligated,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-40583,3/2/26 13:29,3,2,home,friends and/or family,rest,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-40583,3/2/26 13:28,23,1,public place,strangers,gym,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-40583,3/3/26 13:40,14,3,school,teachers and classmates,obligation,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-40583,3/2/26 13:29,20,1,public place,strangers,gym,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-40583,2/19/26 9:19,2,1,home,friends and/or family,rest,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-40583,3/2/26 13:27,3,1,home,friends and/or family,rest,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-40583,2/18/26 10:38,20,2,school,teachers and classmates,obligation,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-40583,2/19/26 20:24,2,2,home,friends and/or family,done,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-40583,3/2/26 13:28,4,0,other's house,friends and/or family,fun,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-40583,3/2/26 13:30,17,3,school,teachers and classmates,obligation,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-40583,3/2/26 13:30,19,1,public place,strangers,gym,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-40583,2/17/26 14:35,16,2,school,teachers and classmates,obligation,NA,NA,11/11/25 13:43,Fly,15,9,12,Introvert,14,Blue,Orange,No,NA,NA
+bvsd-43914,2/24/26 9:17,1,0,home,friends and/or family,Chill,NA,NA,11/11/25 14:38,Fly,11,9,12,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-43914,2/24/26 9:18,24,3,school,teachers and classmates,school,NA,NA,11/11/25 14:38,Fly,11,9,12,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-43914,2/24/26 9:15,1,0,public place,friends and/or family,Sweetheart,NA,NA,11/11/25 14:38,Fly,11,9,12,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-43914,2/19/26 18:37,12,3,school,teachers and classmates,Sport,NA,NA,11/11/25 14:38,Fly,11,9,12,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-43914,2/24/26 9:18,21,3,school,teachers and classmates,School,NA,NA,11/11/25 14:38,Fly,11,9,12,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-43914,2/19/26 18:37,22,2,school,teachers and classmates,Work,NA,NA,11/11/25 14:38,Fly,11,9,12,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-43914,2/25/26 12:54,0,3,home,alone,Studying,NA,NA,11/11/25 14:38,Fly,11,9,12,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-43914,2/17/26 11:28,23,3,school,teachers and classmates,Forced,NA,NA,11/11/25 14:38,Fly,11,9,12,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-43914,2/24/26 9:16,0,0,home,alone,Sleep,NA,NA,11/11/25 14:38,Fly,11,9,12,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-43914,2/19/26 18:36,0,0,home,alone,Sleep,NA,NA,11/11/25 14:38,Fly,11,9,12,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-43914,2/19/26 18:38,12,3,school,teachers and classmates,Sport,NA,NA,11/11/25 14:38,Fly,11,9,12,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-43914,2/24/26 9:17,1,1,other's house,friends and/or family,Hangout ,NA,NA,11/11/25 14:38,Fly,11,9,12,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-46461,2/22/26 8:53,4,0,home,friends and/or family,waiting,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-46461,2/23/26 11:59,20,1,school,teachers and classmates,mandatory,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-46461,2/19/26 13:24,40,2,school,teachers and classmates,because,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-46461,2/24/26 14:32,17,1,school,teachers and classmates,mandatory,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-46461,2/24/26 16:17,4,0,home,friends and/or family,waiting,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-46461,2/20/26 9:00,7,1,school,teachers and classmates,mandatory ,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-46461,2/18/26 16:04,2,0,home,friends and/or family,waiting,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-46461,2/17/26 14:42,16,1,school,teachers and classmates,law,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-46461,2/22/26 8:53,3,0,home,friends and/or family,gaming,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-46461,2/20/26 22:23,4,0,home,friends and/or family,games,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-46461,2/19/26 18:01,4,1,home,friends and/or family,relaxing,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-46461,2/23/26 18:04,3,0,home,friends and/or family,chilling,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-46461,2/18/26 15:57,23,1,school,teachers and classmates,law,NA,NA,11/11/25 14:36,Fly,9,19,16,Introvert,6,Gold,Green,Yes,NA,NA
+bvsd-50607,2/23/26 10:51,3,1,home,friends and/or family,cousins,38.90458948201212,-94.66804014,11/11/25 14:36,Telepathy (read minds),18,15,10,Extrovert,7,Blue,Gold,No,38.91299424437943,-94.66209463
+bvsd-50607,2/24/26 9:25,0,1,home,alone,dinner,38.901037344796386,-94.65574405,11/11/25 14:36,Telepathy (read minds),18,15,10,Extrovert,7,Blue,Gold,No,38.91299424437943,-94.66209463
+bvsd-50607,2/24/26 9:25,20,2,school,teachers and classmates,physics,38.91605197228716,-94.66510592,11/11/25 14:36,Telepathy (read minds),18,15,10,Extrovert,7,Blue,Gold,No,38.91299424437943,-94.66209463
+bvsd-50607,2/20/26 12:35,20,1,school,teachers and classmates,math,38.89750757843491,-94.65525633,11/11/25 14:36,Telepathy (read minds),18,15,10,Extrovert,7,Blue,Gold,No,38.91299424437943,-94.66209463
+bvsd-50607,2/19/26 15:00,0,2,home,alone,sick,38.91202619289477,-94.6776642,11/11/25 14:36,Telepathy (read minds),18,15,10,Extrovert,7,Blue,Gold,No,38.91299424437943,-94.66209463
+bvsd-50607,2/19/26 15:00,0,0,home,alone,sick,38.916312236568515,-94.68567835,11/11/25 14:36,Telepathy (read minds),18,15,10,Extrovert,7,Blue,Gold,No,38.91299424437943,-94.66209463
+bvsd-50607,2/24/26 10:37,0,1,home,alone,sick,38.90260748608356,-94.66565976,11/11/25 14:36,Telepathy (read minds),18,15,10,Extrovert,7,Blue,Gold,No,38.91299424437943,-94.66209463
+bvsd-50607,2/23/26 10:50,1,2,other's house,friends and/or family,sweetheart,38.90318083229932,-94.66134261,11/11/25 14:36,Telepathy (read minds),18,15,10,Extrovert,7,Blue,Gold,No,38.91299424437943,-94.66209463
+bvsd-50607,2/23/26 10:50,1,3,home,friends and/or family,makeup,38.90633337805591,-94.6634498,11/11/25 14:36,Telepathy (read minds),18,15,10,Extrovert,7,Blue,Gold,No,38.91299424437943,-94.66209463
+bvsd-50607,2/17/26 11:28,23,3,school,teachers and classmates,IDS,38.90491880654645,-94.65527497,11/11/25 14:36,Telepathy (read minds),18,15,10,Extrovert,7,Blue,Gold,No,38.91299424437943,-94.66209463
+bvsd-50607,2/23/26 10:51,3,1,commuting,friends and/or family,coffee,38.90491995,-94.66648756,11/11/25 14:36,Telepathy (read minds),18,15,10,Extrovert,7,Blue,Gold,No,38.91299424437943,-94.66209463
+bvsd-50607,2/18/26 12:41,20,2,school,teachers and classmates,math,38.90054712892704,-94.66000921,11/11/25 14:36,Telepathy (read minds),18,15,10,Extrovert,7,Blue,Gold,No,38.91299424437943,-94.66209463
+bvsd-51207,3/3/26 12:34,8,2,work,coworkers,Money,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-51207,2/19/26 11:14,12,1,school,teachers and classmates,Project,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-51207,2/19/26 11:14,2,2,home,friends and/or family,switch,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-51207,3/3/26 12:28,1,0,public place,friends and/or family,Date,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-51207,3/3/26 12:32,13,2,school,teachers and classmates,Learning,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-51207,3/3/26 12:31,10,3,work,coworkers,money,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-51207,3/3/26 12:30,3,1,home,friends and/or family,Preperation,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-51207,3/3/26 13:43,2,3,school,teachers and classmates,Learning,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-51207,2/19/26 11:13,12,0,school,teachers and classmates,Design,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-51207,2/19/26 17:14,40,1,public place,alone,GAINS,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-51207,3/3/26 12:26,8,1,school,teachers and classmates,Law,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-51207,2/17/26 14:36,16,1,school,teachers and classmates,Required,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-51207,3/3/26 12:27,2,1,home,friends and/or family,Home,NA,NA,11/11/25 14:36,Fly,17,8,12,Introvert,13,Blue,Orange,Yes,NA,NA
+bvsd-52367,2/17/26 14:35,16,2,school,teachers and classmates,obligation,NA,NA,11/11/25 14:37,Fly,8,15,14,Extrovert,13,Gold,Green,Yes,NA,NA
+bvsd-64850,2/23/26 20:41,0,1,home,alone,sick,38.91609660440473,-94.63231638,11/11/25 14:39,Freeze Time,15,8,11,Extrovert,16,Orange,Blue,Yes,NA,NA
+bvsd-64850,2/19/26 21:53,4,1,work,coworkers,Money,NA,NA,11/11/25 14:39,Freeze Time,15,8,11,Extrovert,16,Orange,Blue,Yes,NA,NA
+bvsd-64850,2/23/26 20:38,1,2,home,friends and/or family,relax,38.90142537460011,-94.64192629,11/11/25 14:39,Freeze Time,15,8,11,Extrovert,16,Orange,Blue,Yes,NA,NA
+bvsd-64850,2/23/26 20:41,1,1,home,friends and/or family,sick,38.89600318278278,-94.63343941,11/11/25 14:39,Freeze Time,15,8,11,Extrovert,16,Orange,Blue,Yes,NA,NA
+bvsd-64850,2/19/26 21:55,2,2,work,coworkers,money,NA,NA,11/11/25 14:39,Freeze Time,15,8,11,Extrovert,16,Orange,Blue,Yes,NA,NA
+bvsd-64850,2/19/26 21:54,20,2,school,teachers and classmates,required,NA,NA,11/11/25 14:39,Freeze Time,15,8,11,Extrovert,16,Orange,Blue,Yes,NA,NA
+bvsd-64850,2/18/26 13:18,30,1,school,friends and/or family,learn,38.916597516506144,-94.673648,11/11/25 14:39,Freeze Time,15,8,11,Extrovert,16,Orange,Blue,Yes,NA,NA
+bvsd-64850,2/23/26 20:41,0,1,home,alone,tired,38.90089607953021,-94.6407083,11/11/25 14:39,Freeze Time,15,8,11,Extrovert,16,Orange,Blue,Yes,NA,NA
+bvsd-64850,2/23/26 20:40,1,2,home,friends and/or family,tired,38.90017773683351,-94.6343714,11/11/25 14:39,Freeze Time,15,8,11,Extrovert,16,Orange,Blue,Yes,NA,NA
+bvsd-64850,2/17/26 14:36,16,1,school,teachers and classmates,Learn,NA,NA,11/11/25 14:39,Freeze Time,15,8,11,Extrovert,16,Orange,Blue,Yes,NA,NA
+bvsd-64850,2/23/26 20:37,40,1,other's house,friends and/or family,fun,38.89806764805096,-94.62665814,11/11/25 14:39,Freeze Time,15,8,11,Extrovert,16,Orange,Blue,Yes,NA,NA
+bvsd-64850,2/23/26 20:36,3,3,public place,strangers,doctor,38.89577776600429,-94.63757706,11/11/25 14:39,Freeze Time,15,8,11,Extrovert,16,Orange,Blue,Yes,NA,NA
+bvsd-67182,3/3/26 13:58,23,3,school,teachers and classmates,Learn,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-67182,3/3/26 13:54,3,3,home,friends and/or family,homework,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-67182,3/3/26 13:50,0,3,home,alone,Food,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-67182,3/3/26 13:47,1,3,public place,friends and/or family,Food,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-67182,3/3/26 13:46,16,3,school,teachers and classmates,Learn,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-67182,3/3/26 13:45,11,3,school,teachers and classmates,Basketball,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-67182,2/26/26 12:47,3,3,school,teachers and classmates,education,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-67182,3/3/26 13:42,0,3,home,alone,sleep,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-67182,2/17/26 14:35,16,2,school,friends and/or family,Education,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-67182,3/3/26 13:40,16,3,school,teachers and classmates,Learn,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-67182,2/26/26 12:48,1,3,home,alone,sleep,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-67182,2/26/26 12:48,7,1,other's house,friends and/or family,basketball,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-67182,2/26/26 12:48,25,3,school,teachers and classmates,education,NA,NA,11/11/25 14:38,Fly,10,9,13,Introvert,18,Orange,Green,Yes,NA,NA
+bvsd-79067,2/24/26 8:02,0,0,home,alone,sleep,38.90615909647828,-94.65634693,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-79067,2/22/26 21:34,0,1,home,alone,Sleep,38.91719483272859,-94.65981717,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-79067,2/19/26 9:50,10,3,school,teachers and classmates,Sports,38.911457154408524,-94.66249731,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-79067,2/20/26 9:29,18,1,school,teachers and classmates,Education,38.911192396697125,-94.65467678,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-79067,2/18/26 12:48,13,1,school,teachers and classmates,Education,38.897565201004795,-94.66653452,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-79067,2/22/26 21:36,0,1,home,alone,sleep,38.90449392771522,-94.66034917,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-79067,2/19/26 19:40,2,0,home,friends and/or family,Dinner,38.90553966,-94.65382527,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-79067,2/22/26 21:35,0,0,home,alone,Relax,38.90713478364096,-94.65964822,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-79067,2/22/26 21:37,20,1,public place,friends and/or family,Basketball,38.89990192415164,-94.65913638,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-79067,2/24/26 8:02,0,0,home,alone,Dinner,38.89622563139014,-94.6549181,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-79067,2/19/26 10:58,22,1,school,teachers and classmates,Education,38.909462286226166,-94.66135344,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-79067,2/17/26 11:29,22,0,school,teachers and classmates,Education,38.90490650450126,-94.65640048,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-79067,2/22/26 21:36,6,3,work,coworkers,Money,38.91115582946956,-94.66694276,11/13/25 13:17,Fly,16,9,6,Extrovert,19,Orange,Blue,Yes,38.90964329837799,-94.65728178
+bvsd-90254,3/3/26 13:40,14,3,school,teachers and classmates,mandatory,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-90254,2/19/26 20:52,0,3,home,alone,Home,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-90254,2/19/26 12:31,16,1,school,teachers and classmates,Mandatory ,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-90254,2/23/26 15:12,11,3,school,teachers and classmates,Mandatory,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-90254,2/23/26 15:13,1,3,home,friends and/or family,Home,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-90254,2/19/26 12:32,4,1,school,teachers and classmates,Lunch,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-90254,2/19/26 12:32,3,2,home,alone,Relaxing,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-90254,2/23/26 15:10,15,0,public place,friends and/or family,Movie,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-90254,2/23/26 15:09,3,0,home,friends and/or family,Tired,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-90254,2/23/26 15:12,2,0,public place,friends and/or family,Friends,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-90254,2/23/26 15:11,3,0,home,friends and/or family,Sleeping,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-90254,2/20/26 14:19,12,3,school,teachers and classmates,Education,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-90254,2/17/26 14:35,16,2,school,teachers and classmates,Education,NA,NA,11/11/25 14:39,Invisibility,18,14,9,Introvert,9,Blue,Gold,No,NA,NA
+bvsd-91855,2/24/26 13:14,8,0,work,coworkers,Money,38.90369921678899,-94.65573388,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845
+bvsd-91855,3/3/26 9:31,6,1,work,coworkers,Money,38.90350989276261,-94.65628175,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845
+bvsd-91855,3/3/26 9:28,8,0,work,coworkers,Money,38.90405962936843,-94.66417512,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845
+bvsd-91855,3/3/26 9:29,0,0,home,alone,Bored,38.900372954043426,-94.66259176,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845
+bvsd-91855,3/3/26 9:33,16,2,school,teachers and classmates,Obligation,38.890791615438886,-94.66146047,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845
+bvsd-91855,3/3/26 9:30,0,0,home,alone,Videogame,38.90177040332498,-94.65900901,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845
+bvsd-91855,3/3/26 9:30,0,0,home,alone,Videogame,38.91199480376675,-94.65430782,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845
+bvsd-91855,3/3/26 9:28,21,0,school,teachers and classmates,obligation,38.897230369773254,-94.65279631,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845
+bvsd-91855,3/3/26 9:31,1,0,other's house,friends and/or family,Fun,38.90540370747816,-94.65997935,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845
+bvsd-91855,3/3/26 9:32,1,0,home,friends and/or family,Skipping,38.91273450606305,-94.65014454,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845
+bvsd-91855,2/17/26 14:37,16,1,school,teachers and classmates,Obligation,NA,NA,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845
+bvsd-91855,3/3/26 9:27,16,0,school,teachers and classmates,obligation,38.90173521934858,-94.65673117,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845
+bvsd-91855,3/3/26 9:32,5,1,work,coworkers,Money,38.912065038981304,-94.65524529,11/11/25 14:36,Telepathy (read minds),17,9,7,Introvert,17,Orange,Blue,Yes,38.900964922699124,-94.65116845

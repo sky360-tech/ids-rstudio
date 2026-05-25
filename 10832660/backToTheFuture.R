@@ -1,0 +1,12 @@
+pnorm(68.45,mean=80,sd=7.7)
+1-pnorm(85,mean=80,sd=7.7)
+pnorm(95,mean=80,sd=7.7)-pnorm(70,mean=80,sd=7.7)
+
+qnorm(.85,80,7.7)
+
+1-pnorm(290,mean=304,sd=8)
+
+
+95.9-93.5
+
+qnorm(.90,304,8)

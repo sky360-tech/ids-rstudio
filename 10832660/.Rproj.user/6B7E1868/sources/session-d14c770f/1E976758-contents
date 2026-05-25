@@ -1,0 +1,45 @@
+View(personalityColor)
+ncol(personalityColor)
+nrow(personalityColor)
+dotPlot(~ blue,data=personalityColor,main ="Predominant Color: Blue",nint=13)
+mean(~blue, data = personalityColor)
+median(~blue, data = personalityColor)
+add_line(vline = mean(~blue, data = personalityColor))
+MAD(~blue, data = personalityColor)
+
+dotPlot(~ blue|int_ext,data=personalityColor,main ="Predominant Color: Blue",nint=13, cex=.5)
+
+mean(~blue|int_ext, data = personalityColor)
+median(~blue|int_ext, data = personalityColor)
+MAD(~blue|int_ext, data = personalityColor)
+
+dotPlot(~ blue|int_ext,data=personalityColor,nint=13, cex=.5)
+dotPlot(~ gold|int_ext,data=personalityColor,nint=12, cex=.5)
+dotPlot(~ green|int_ext,data=personalityColor,nint=13, cex=.5)
+dotPlot(~ orange|int_ext,data=personalityColor,nint=16, cex=.3)
+
+mean(~orange|int_ext, data = personalityColor)
+
+MAD(~orange|int_ext, data = personalityColor)
+
+median(~orange|int_ext, data = personalityColor)
+dotPlot(~ blue|int_ext,data=personalityColor,main ="Predominant Color: Blue",nint=13, cex=.5, layout = c(1,2))
+
+
+
+
+str(personalityColor)
+nrow(personalityColor)
+
+mean(~green,data=personalityColor)
+
+greenmeans<-mean(~green|int_ext,data=personalityColor)
+
+diff(greenmeans)
+
+
+dotPlot(~green|int_ext,data=personalityColor,nint=13,cex=.5,layout=c(1,2))
+
+dotPlot(~orange|int_ext,data=personalityColor,nint=13,cex=.5,layout=c(1,2))
+
+dotPlot(~gold|int_ext,data=personalityColor,nint=13,cex=.5,layout=c(1,2))

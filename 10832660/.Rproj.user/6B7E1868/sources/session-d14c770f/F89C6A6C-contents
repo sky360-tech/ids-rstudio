@@ -1,0 +1,44 @@
+data("slasher")
+View(slasher)
+str(slasher)
+tally(~survival|gende, data = slasher)
+
+tally(~gender|survival, data = slasher, format = "percent")
+tally(~gender | survival, data = slasher, margin = TRUE)
+tally(~survival | gender, data = slasher, margin = TRUE)
+tally(~survival | gender, format = "percent", data = slasher, margin = TRUE)
+set.seed(1)
+tally(~survival | gender, data = slasher)
+tally(~shuffle(survival) | gender, data = slasher)
+tally(~shuffle(survival) | gender, data = slasher,format="percent")
+set.seed(7)
+shuffled_outcomes <- do(10) * tally(~shuffle(survival) | gender, format = "percent", data = slasher)
+View(shuffled_outcomes)]
+
+set.seed(1)
+
+shuffled_outcomes <- do(2000) * tally(~shuffle(survival) | gender, format = "percent", data = slasher)
+
+head(shuffled_outcomes)
+
+shuffled_outcomes <- mutate(shuffled_outcomes, diff =  Survives.Female - Survives.Male)
+View(shuffled_outcomes)
+
+
+histogram(~diff,data=shuffled_outcomes)
+add_line(vline = 22.52252 - 13.30798)  
+
+set.seed(1)
+
+shuffled_gender<-do(2000)*tally(~survival|shuffle(gender),format="percent",data=slasher)
+
+View(shuffled_gender)
+
+head(shuffled_gender)
+
+shuffled_gender<-mutate(shuffled_gender,diff=Survives.Female-Survives.Male)
+
+
+histogram(~diff,data=shuffled_gender,fit="normal")
+
+add_line(vline = 22.52252 - 13.30798)
