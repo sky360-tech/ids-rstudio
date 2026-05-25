@@ -1,0 +1,40 @@
+name: Daily IDS Commit
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # 10AM CST (1 hour after codehs)
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Commit next file
+        run: |
+          git config user.email "tahmirhasanraid1@gmail.com"
+          git config user.name "ASM Tahmir Hasan"
+
+          INDEX_FILE=".github/commit_index.txt"
+          INDEX=0
+          if [ -f "$INDEX_FILE" ]; then
+            INDEX=$(cat "$INDEX_FILE")
+          fi
+
+          FILES=($(find . -type f \( -name "*.R" -o -name "*.r" -o -name "*.csv" \) | grep -v ".github" | sort))
+          TOTAL=${#FILES[@]}
+
+          INDEX=$((INDEX % TOTAL))
+          FILE="${FILES[$INDEX]}"
+
+          touch "$FILE"
+          echo $((INDEX + 1)) > "$INDEX_FILE"
+
+          git add "$FILE" "$INDEX_FILE"
+          git commit -m "Review: $(basename $FILE) - $(date +'%Y-%m-%d')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
