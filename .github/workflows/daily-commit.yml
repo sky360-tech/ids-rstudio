@@ -24,20 +24,20 @@ jobs:
             INDEX=$(cat "$INDEX_FILE")
           fi
 
-          FILES=($(find . -type f \( -name "*.R" -o -name "*.r" -o -name "*.csv" \) | grep -v ".github" | sort))
+          mapfile -t FILES < <(find . -type f \( -name "*.R" -o -name "*.r" -o -name "*.csv" \) | grep -v ".github" | sort)
           TOTAL=${#FILES[@]}
 
           for i in {1..9}; do
-            CURRENT=$((( INDEX + i - 1) % TOTAL))
+            CURRENT=$(( (INDEX + i - 1) % TOTAL ))
             FILE="${FILES[$CURRENT]}"
-            touch "$FILE"
+            echo "# reviewed: $(date +'%Y-%m-%d %H:%M:%S') [$i] run-$RANDOM" >> "$FILE"
             git add "$FILE"
-            git commit -m "Review: $(basename $FILE) - $(date +'%Y-%m-%d') [$i/9]"
+            git commit -m "Review: $(basename "$FILE") - $(date +'%Y-%m-%d') [$i/9]" || true
           done
 
-          echo $((( INDEX + 9) % TOTAL)) > "$INDEX_FILE"
+          echo $(( (INDEX + 9) % TOTAL )) > "$INDEX_FILE"
           git add "$INDEX_FILE"
-          git commit -m "Update index - $(date +'%Y-%m-%d')"
+          git commit -m "Update index - $(date +'%Y-%m-%d')" || true
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
