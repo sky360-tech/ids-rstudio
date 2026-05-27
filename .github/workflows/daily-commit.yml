@@ -2,7 +2,7 @@ name: Daily IDS Commit
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # 10AM CST (1 hour after codehs)
+    - cron: '0 15 * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Commit next file
+      - name: Commit next files
         run: |
           git config user.email "tahmirhasanraid1@gmail.com"
           git config user.name "ASM Tahmir Hasan"
@@ -27,14 +27,17 @@ jobs:
           FILES=($(find . -type f \( -name "*.R" -o -name "*.r" -o -name "*.csv" \) | grep -v ".github" | sort))
           TOTAL=${#FILES[@]}
 
-          INDEX=$((INDEX % TOTAL))
-          FILE="${FILES[$INDEX]}"
+          for i in {1..9}; do
+            CURRENT=$((( INDEX + i - 1) % TOTAL))
+            FILE="${FILES[$CURRENT]}"
+            touch "$FILE"
+            git add "$FILE"
+            git commit -m "Review: $(basename $FILE) - $(date +'%Y-%m-%d') [$i/9]"
+          done
 
-          touch "$FILE"
-          echo $((INDEX + 1)) > "$INDEX_FILE"
-
-          git add "$FILE" "$INDEX_FILE"
-          git commit -m "Review: $(basename $FILE) - $(date +'%Y-%m-%d')"
+          echo $((( INDEX + 9) % TOTAL)) > "$INDEX_FILE"
+          git add "$INDEX_FILE"
+          git commit -m "Update index - $(date +'%Y-%m-%d')"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
