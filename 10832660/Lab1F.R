@@ -33,3 +33,4 @@ food <- mutate(food, healthy_level = recode(healthy_level, "1"="Very Unhealthy",
 histogram(~calories | healthy_level, data = food)
 
 save(food, file = "food.Rda")
+# reviewed: 2026-05-27 23:14:43 [7] run-23572
