@@ -33,3 +33,4 @@ shuffled_survival_mean <- do(2000) * mean(~fare|shuffle(survived), data = titani
 shuffled_survival_mean <- mutate(shuffled_survival_mean, diff =  Yes - No)
 histogram(~diff,data=shuffled_survival_mean,fit="Normal")
 
+# reviewed: 2026-05-27 23:14:42 [1] run-31184
