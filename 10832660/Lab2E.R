@@ -42,3 +42,4 @@ shuffled_gender<-mutate(shuffled_gender,diff=Survives.Female-Survives.Male)
 histogram(~diff,data=shuffled_gender,fit="normal")
 
 add_line(vline = 22.52252 - 13.30798)
+# reviewed: 2026-05-28 18:17:49 [4] run-1028
