@@ -43,3 +43,4 @@ dotPlot(~green|int_ext,data=personalityColor,nint=13,cex=.5,layout=c(1,2))
 dotPlot(~orange|int_ext,data=personalityColor,nint=13,cex=.5,layout=c(1,2))
 
 dotPlot(~gold|int_ext,data=personalityColor,nint=13,cex=.5,layout=c(1,2))
+# reviewed: 2026-05-28 18:17:49 [1] run-19708
