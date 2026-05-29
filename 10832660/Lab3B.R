@@ -31,3 +31,4 @@ bwplot(smoker ~ lung_cap, data = lungs_17, main="Age Group: 17")
 
 sample(1:21, size = 10, replace = FALSE)
 
+# reviewed: 2026-05-29 18:14:01 [2] run-9019
