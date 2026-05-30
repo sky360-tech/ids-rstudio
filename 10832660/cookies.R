@@ -36,3 +36,4 @@ tally(~nfemale,data=new_litters2000,format="proportion")
 
 tally(~nmale,data=new_litters2000,format="proportion")
 
+# reviewed: 2026-05-30 16:07:17 [5] run-31723
