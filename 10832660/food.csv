@@ -789,3 +789,4 @@ user:id,context:timestamp,calories,cost:key,cost:label,healthy_level,ingredients
 "bvsd-14126","2025-08-28 11:38:16","150","1","$0 to < $1","2","15","Cliff ZBAR","2","1","Sweet","SKIPPED","105","10","1","morning","1","availability","38.90984029727185","-94.66941321300312"
 "bvsd-90348","2025-08-28 11:38:01","115","2","$1 to < $3","2","33","Doritos Flamas flavored","2","0","Salty","SKIPPED","120","0","2","afternoon","5","hungry/thirsty","38.9060341414146","-94.6659935072012"
 "bvsd-04643","2025-08-28 11:37:51","90","1","$0 to < $1","3","26","Granola Bar","1","0","Salty","SKIPPED","70","7","1","morning","5","hungry/thirsty",,
+# reviewed: 2026-05-30 16:07:17 [7] run-5077
