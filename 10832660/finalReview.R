@@ -13,3 +13,4 @@ IQR(~Travel_time_to_school|Travel_to_school,data=exam)
 bigfoot<-filter(exam,Footlength_cm>23)
 tally(~Allergies|Vegetarian,data=exam,format="percent",margins=TRUE)
 
+# reviewed: 2026-05-30 16:07:17 [6] run-19767
