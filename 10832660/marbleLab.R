@@ -10,4 +10,4 @@ marbles<-c(blue,yellow)
 
 marble_draw <- do(2000) * sample(marbles, size = 1, replace = TRUE)
 tally(~sample,data=marble_draw)/2000
-tally(~sample,data=marble_draw,format="proportion")
+tally(~sample,data=marble_draw,format="proportion")# reviewed: 2026-05-30 16:07:17 [8] run-4221
