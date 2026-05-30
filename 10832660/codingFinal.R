@@ -13,4 +13,4 @@ bwplot(~weight|sex,data=cdc,layout=c(1,2))
 MAD(~weight|sex,data=cdc)
 iqr(~weight|sex,data=cdc)
 IQR(~weight|sex,data=cdc)
-View(food)
+View(food)# reviewed: 2026-05-30 16:07:17 [4] run-24697
