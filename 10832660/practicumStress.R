@@ -24,3 +24,4 @@ bwplot(~howmanypeople|p_color+int_ext,data=stress_color_all,main = "Relationship
 histogram(~howmanypeople|p_color+int_ext,data=stress_color_all,main = "Relationship between primary color, people around, and introvert and extrovert", xlab = "Number of people",col="green",nint=4,type="percent")
 
 
+# reviewed: 2026-05-31 16:14:02 [1] run-5227
