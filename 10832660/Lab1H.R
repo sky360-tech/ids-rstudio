@@ -40,3 +40,4 @@ tally(~homework,data=timeuse)
 
 
 # reviewed: 2026-05-27 23:14:43 [9] run-20263
+# reviewed: 2026-06-02 18:43:09 [2] run-11007
