@@ -101,3 +101,4 @@ histogram(~nrap, data = draws_without, nint = 6, type = "percent")
 tally(~nrap, data = draws_without, format = "percent")
 
 # reviewed: 2026-05-28 18:17:49 [3] run-11351
+# reviewed: 2026-06-02 18:43:10 [5] run-14562
