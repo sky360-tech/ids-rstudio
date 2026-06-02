@@ -23,3 +23,4 @@ tally(~nfemale, data = faculty1, format = "percent")
 histogram(~nfemale, data = faculty1, nint = 3)
 
 # reviewed: 2026-05-28 18:17:49 [6] run-6249
+# reviewed: 2026-06-02 18:43:10 [8] run-8364
