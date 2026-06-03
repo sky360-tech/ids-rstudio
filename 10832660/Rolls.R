@@ -69,3 +69,4 @@ histogram(u4, nint = 6, main="u4 2000 Rolls")
 more_unfairRolls<-c(u1,u2,u3,u4)
 tally(more_unfairRolls)
 tally(more_unfairRolls,format="percent")# reviewed: 2026-05-29 18:14:01 [4] run-30519
+# reviewed: 2026-06-03 18:48:28 [6] run-23638
