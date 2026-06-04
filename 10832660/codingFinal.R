@@ -14,3 +14,4 @@ MAD(~weight|sex,data=cdc)
 iqr(~weight|sex,data=cdc)
 IQR(~weight|sex,data=cdc)
 View(food)# reviewed: 2026-05-30 16:07:17 [4] run-24697
+# reviewed: 2026-06-04 17:47:14 [6] run-23230
