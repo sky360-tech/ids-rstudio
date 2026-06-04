@@ -14,3 +14,4 @@ bigfoot<-filter(exam,Footlength_cm>23)
 tally(~Allergies|Vegetarian,data=exam,format="percent",margins=TRUE)
 
 # reviewed: 2026-05-30 16:07:17 [6] run-19767
+# reviewed: 2026-06-04 17:47:14 [8] run-16851
