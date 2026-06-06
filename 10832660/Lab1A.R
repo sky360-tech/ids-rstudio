@@ -42,3 +42,4 @@ xyplot(age~height,data=cdc)
 bargraph(~drink_soda,data=cdc)
 # reviewed: 2026-05-27 23:14:42 [2] run-14230
 # reviewed: 2026-06-01 19:56:29 [4] run-10385
+# reviewed: 2026-06-06 16:09:27 [6] run-954
