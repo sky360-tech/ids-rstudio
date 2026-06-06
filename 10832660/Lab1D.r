@@ -54,3 +54,4 @@ dotPlot(~ sugar | salty_sweet, data = food, nint = 84)
 dotPlot(~ sugar | salty_sweet, data = food, nint = 84, layout = c(1,2))     
 # reviewed: 2026-05-27 23:14:43 [5] run-2607
 # reviewed: 2026-06-01 19:56:29 [7] run-8804
+# reviewed: 2026-06-06 16:09:27 [9] run-12903
