@@ -130,3 +130,4 @@ user:id,context:timestamp,activities:key,activities:label,chores,communicate,day
 "bvsd-36323","2025-10-16 10:20:37","[0,1,17,2,3,5,6,8,12,13]","[Sleep, Meals/Eating, Social Media, School, Homework, Grooming, Travel/Commuting, Television, Communicating, Socializing]","NOT_DISPLAYED","25","1","NOT_DISPLAYED","75","110","85","NOT_DISPLAYED","NOT_DISPLAYED","240","640","130","60","NOT_DISPLAYED","NOT_DISPLAYED","20","55","NOT_DISPLAYED","NOT_DISPLAYED",,
 "bvsd-16908","2025-10-16 10:19:39","[0,1,17,2,4,5,6]","[Sleep, Meals/Eating, Social Media, School, Work, Grooming, Travel/Commuting]","NOT_DISPLAYED","NOT_DISPLAYED","1","NOT_DISPLAYED","100","NOT_DISPLAYED","60","NOT_DISPLAYED","NOT_DISPLAYED","375","390","90","NOT_DISPLAYED","NOT_DISPLAYED","NOT_DISPLAYED","NOT_DISPLAYED","35","NOT_DISPLAYED","390",,
 # reviewed: 2026-05-31 16:14:02 [8] run-8361
+# reviewed: 2026-06-06 16:09:27 [1] run-3334
