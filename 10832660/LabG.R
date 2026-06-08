@@ -17,3 +17,4 @@ View(part_time)
 tally(~fulltime_emp | sex, data = atu_clean, margin = TRUE, format = "percent")
 # reviewed: 2026-05-29 18:14:01 [3] run-15381
 # reviewed: 2026-06-03 18:48:28 [5] run-12165
+# reviewed: 2026-06-08 17:57:40 [7] run-3142
