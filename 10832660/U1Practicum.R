@@ -15,3 +15,4 @@ histogram(~protein | when,data=proteinWhen, type = "percent", main = "When do pe
 histogram(~protein | when,data=proteinWhen, type = "percent", main = "When do people eat the most protein?", col = "lightgreen", breaks=seq(0, 32, 4), scales=list(x=list(at=seq(0,32,4))))
 # reviewed: 2026-05-29 18:14:01 [7] run-12426
 # reviewed: 2026-06-03 18:48:29 [9] run-5615
+# reviewed: 2026-06-09 17:26:07 [2] run-8570
