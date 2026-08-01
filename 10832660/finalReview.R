@@ -25,3 +25,4 @@ tally(~Allergies|Vegetarian,data=exam,format="percent",margins=TRUE)
 # reviewed: 2026-07-16 16:19:11 [6] run-7512
 # reviewed: 2026-07-21 16:24:27 [8] run-30544
 # reviewed: 2026-07-27 17:00:53 [1] run-197
+# reviewed: 2026-08-01 16:03:08 [3] run-1240
