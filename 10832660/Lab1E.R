@@ -51,3 +51,4 @@ bargraph(~healthy_level,data=food,groups=salty_sweet)
 # reviewed: 2026-08-03 17:10:45 [5] run-22647
 # reviewed: 2026-08-09 15:35:05 [7] run-24170
 # reviewed: 2026-08-14 15:54:50 [9] run-21613
+# reviewed: 2026-08-20 15:36:21 [2] run-27637
