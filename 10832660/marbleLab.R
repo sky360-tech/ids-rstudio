@@ -26,3 +26,4 @@ tally(~sample,data=marble_draw,format="proportion")# reviewed: 2026-05-30 16:07:
 # reviewed: 2026-08-07 15:58:50 [7] run-27423
 # reviewed: 2026-08-12 16:00:37 [9] run-10110
 # reviewed: 2026-08-18 15:34:41 [2] run-20400
+# reviewed: 2026-08-23 15:26:04 [4] run-22824
