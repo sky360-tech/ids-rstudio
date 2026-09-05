@@ -52,3 +52,4 @@ tally(~depressed|sex,data=cdc,format="percent")
 # reviewed: 2026-08-20 15:36:21 [4] run-2210
 # reviewed: 2026-08-25 15:45:15 [6] run-11264
 # reviewed: 2026-08-30 18:29:43 [8] run-29830
+# reviewed: 2026-09-05 17:12:52 [1] run-8728
