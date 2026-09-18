@@ -57,3 +57,4 @@ tally(~nmale,data=new_litters2000,format="proportion")
 # reviewed: 2026-09-02 18:28:45 [5] run-26039
 # reviewed: 2026-09-07 19:02:20 [7] run-23744
 # reviewed: 2026-09-12 17:42:23 [9] run-11286
+# reviewed: 2026-09-18 18:09:34 [2] run-16104
