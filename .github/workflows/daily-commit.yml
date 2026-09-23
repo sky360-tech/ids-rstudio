@@ -1,9 +1,12 @@
-name: Daily Code Activity
+﻿name: Daily Code Activity
 
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   code-updates:
@@ -28,10 +31,12 @@ jobs:
           echo "Executing $TOTAL_COMMITS code commits today..."
 
           for i in $(seq 1 $TOTAL_COMMITS); do
-            python .github/scripts/code_changer.py
+            python "${{ github.workspace }}/.github/scripts/code_changer.py"
             git add generated_utils.py
             git commit -m "refactor: optimize security utility routines (pass $i/$TOTAL_COMMITS)"
           done
 
       - name: Push Changes
-        run: git push origin main
+        run: |
+          git pull --rebase origin main
+          git push origin main
