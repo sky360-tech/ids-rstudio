@@ -1,43 +1,37 @@
-name: Daily IDS Commit
+name: Daily Code Activity
 
 on:
   schedule:
-    - cron: '0 15 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  commit:
+  code-updates:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Commit next files
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Perform 20 to 60 Code Changes
         run: |
-          git config user.email "tahmirhasanraid1@gmail.com"
-          git config user.name "ASM Tahmir Hasan"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          INDEX_FILE=".github/commit_index.txt"
-          INDEX=0
-          if [ -f "$INDEX_FILE" ]; then
-            INDEX=$(cat "$INDEX_FILE")
-          fi
+          TOTAL_COMMITS=$(( (RANDOM % 41) + 20 ))
+          echo "Executing $TOTAL_COMMITS code commits today..."
 
-          mapfile -t FILES < <(find . -type f \( -name "*.R" -o -name "*.r" -o -name "*.csv" \) | grep -v ".github" | sort)
-          TOTAL=${#FILES[@]}
-
-          for i in {1..9}; do
-            CURRENT=$(( (INDEX + i - 1) % TOTAL ))
-            FILE="${FILES[$CURRENT]}"
-            echo "# reviewed: $(date +'%Y-%m-%d %H:%M:%S') [$i] run-$RANDOM" >> "$FILE"
-            git add "$FILE"
-            git commit -m "Review: $(basename "$FILE") - $(date +'%Y-%m-%d') [$i/9]" || true
+          for i in $(seq 1 $TOTAL_COMMITS); do
+            python .github/scripts/code_changer.py
+            git add generated_utils.py
+            git commit -m "refactor: optimize security utility routines (pass $i/$TOTAL_COMMITS)"
           done
 
-          echo $(( (INDEX + 9) % TOTAL )) > "$INDEX_FILE"
-          git add "$INDEX_FILE"
-          git commit -m "Update index - $(date +'%Y-%m-%d')" || true
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push Changes
+        run: git push origin main
