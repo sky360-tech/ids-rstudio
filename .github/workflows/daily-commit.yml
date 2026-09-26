@@ -1,4 +1,4 @@
-﻿name: Daily Code Activity
+name: Daily Code Activity
 
 on:
   schedule:
@@ -24,8 +24,8 @@ jobs:
 
       - name: Perform 20 to 60 Code Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "sky360-tech"
+          git config --global user.email "tahmirhasanraid1@gmail.com"
 
           TOTAL_COMMITS=$(( (RANDOM % 41) + 20 ))
           echo "Executing $TOTAL_COMMITS code commits today..."
