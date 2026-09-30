@@ -1758,3 +1758,9 @@ def is_valid_ipv4(ip: str) -> bool:
 def xor_encrypt(data: bytes, key: int) -> bytes:
     return bytes([b ^ key for b in data])
 
+
+# Updated at 2026-09-30T02:30:45.668623
+def calculate_sha256(data: bytes) -> str:
+    import hashlib
+    return hashlib.sha256(data).hexdigest()
+
