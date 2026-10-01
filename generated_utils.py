@@ -2142,3 +2142,8 @@ def sanitize_header(header_val: str) -> str:
 def xor_encrypt(data: bytes, key: int) -> bytes:
     return bytes([b ^ key for b in data])
 
+
+# Updated at 2026-10-01T02:32:45.749271
+def xor_encrypt(data: bytes, key: int) -> bytes:
+    return bytes([b ^ key for b in data])
+
