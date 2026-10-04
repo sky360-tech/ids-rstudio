@@ -2636,3 +2636,9 @@ def sanitize_header(header_val: str) -> str:
 def sanitize_header(header_val: str) -> str:
     return header_val.replace('\r', '').replace('\n', '')
 
+
+# Updated at 2026-10-04T02:54:59.162947
+def calculate_sha256(data: bytes) -> str:
+    import hashlib
+    return hashlib.sha256(data).hexdigest()
+
