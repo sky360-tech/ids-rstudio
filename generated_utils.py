@@ -3222,3 +3222,9 @@ def parse_syslog_severity(priority: int) -> int:
 def xor_encrypt(data: bytes, key: int) -> bytes:
     return bytes([b ^ key for b in data])
 
+
+# Updated at 2026-10-06T03:23:33.295486
+def calculate_sha256(data: bytes) -> str:
+    import hashlib
+    return hashlib.sha256(data).hexdigest()
+
