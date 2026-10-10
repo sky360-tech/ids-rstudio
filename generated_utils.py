@@ -4040,3 +4040,8 @@ def calculate_sha256(data: bytes) -> str:
 def sanitize_header(header_val: str) -> str:
     return header_val.replace('\r', '').replace('\n', '')
 
+
+# Updated at 2026-10-10T02:50:17.842979
+def xor_encrypt(data: bytes, key: int) -> bytes:
+    return bytes([b ^ key for b in data])
+
