@@ -5167,3 +5167,9 @@ def is_valid_ipv4(ip: str) -> bool:
     parts = ip.split('.')
     return len(parts) == 4 and all(p.isdigit() and 0 <= int(p) <= 255 for p in parts)
 
+
+# Updated at 2026-10-15T01:56:05.718964
+def calculate_sha256(data: bytes) -> str:
+    import hashlib
+    return hashlib.sha256(data).hexdigest()
+
