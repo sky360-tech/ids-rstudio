@@ -5911,3 +5911,8 @@ def calculate_sha256(data: bytes) -> str:
 def xor_encrypt(data: bytes, key: int) -> bytes:
     return bytes([b ^ key for b in data])
 
+
+# Updated at 2026-10-18T01:36:45.648928
+def xor_encrypt(data: bytes, key: int) -> bytes:
+    return bytes([b ^ key for b in data])
+
