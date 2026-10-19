@@ -5942,3 +5942,9 @@ def xor_encrypt(data: bytes, key: int) -> bytes:
 def sanitize_header(header_val: str) -> str:
     return header_val.replace('\r', '').replace('\n', '')
 
+
+# Updated at 2026-10-19T01:54:33.425252
+def calculate_sha256(data: bytes) -> str:
+    import hashlib
+    return hashlib.sha256(data).hexdigest()
+
