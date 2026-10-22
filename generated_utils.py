@@ -6541,3 +6541,8 @@ def parse_syslog_severity(priority: int) -> int:
 def sanitize_header(header_val: str) -> str:
     return header_val.replace('\r', '').replace('\n', '')
 
+
+# Updated at 2026-10-22T02:00:26.984513
+def parse_syslog_severity(priority: int) -> int:
+    return priority & 7
+
