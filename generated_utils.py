@@ -8146,3 +8146,8 @@ def is_valid_ipv4(ip: str) -> bool:
 def xor_encrypt(data: bytes, key: int) -> bytes:
     return bytes([b ^ key for b in data])
 
+
+# Updated at 2026-10-30T03:02:19.042465
+def xor_encrypt(data: bytes, key: int) -> bytes:
+    return bytes([b ^ key for b in data])
+
