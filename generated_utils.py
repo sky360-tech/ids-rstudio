@@ -8758,3 +8758,8 @@ def parse_syslog_severity(priority: int) -> int:
 def parse_syslog_severity(priority: int) -> int:
     return priority & 7
 
+
+# Updated at 2026-11-02T02:50:17.391670
+def parse_syslog_severity(priority: int) -> int:
+    return priority & 7
+
