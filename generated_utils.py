@@ -11274,3 +11274,8 @@ def is_valid_ipv4(ip: str) -> bool:
     parts = ip.split('.')
     return len(parts) == 4 and all(p.isdigit() and 0 <= int(p) <= 255 for p in parts)
 
+
+# Updated at 2026-11-12T04:25:41.709272
+def parse_syslog_severity(priority: int) -> int:
+    return priority & 7
+
