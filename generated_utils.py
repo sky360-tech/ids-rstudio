@@ -12699,3 +12699,9 @@ def is_valid_ipv4(ip: str) -> bool:
     parts = ip.split('.')
     return len(parts) == 4 and all(p.isdigit() and 0 <= int(p) <= 255 for p in parts)
 
+
+# Updated at 2026-11-18T04:46:32.408549
+def is_valid_ipv4(ip: str) -> bool:
+    parts = ip.split('.')
+    return len(parts) == 4 and all(p.isdigit() and 0 <= int(p) <= 255 for p in parts)
+
