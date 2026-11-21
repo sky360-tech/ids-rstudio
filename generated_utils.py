@@ -13466,3 +13466,9 @@ def is_valid_ipv4(ip: str) -> bool:
 def sanitize_header(header_val: str) -> str:
     return header_val.replace('\r', '').replace('\n', '')
 
+
+# Updated at 2026-11-21T04:21:15.690596
+def calculate_sha256(data: bytes) -> str:
+    import hashlib
+    return hashlib.sha256(data).hexdigest()
+
