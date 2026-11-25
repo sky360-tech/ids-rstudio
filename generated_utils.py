@@ -14372,3 +14372,8 @@ def is_valid_ipv4(ip: str) -> bool:
 def sanitize_header(header_val: str) -> str:
     return header_val.replace('\r', '').replace('\n', '')
 
+
+# Updated at 2026-11-25T05:44:08.817195
+def sanitize_header(header_val: str) -> str:
+    return header_val.replace('\r', '').replace('\n', '')
+
